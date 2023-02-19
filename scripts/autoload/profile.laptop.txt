@@ -34,7 +34,6 @@ lua load enternity;
 lua load equipviewer;
 lua load eval;
 lua load findAll;
-lua load GearSwap;
 lua load instaLS;
 lua load itemizer;
 lua load JobChange;

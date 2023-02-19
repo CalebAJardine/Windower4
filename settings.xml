@@ -71,5 +71,6 @@
     <windowmode>Window</windowmode>
     <width>1280</width>
     <height>800</height>
+    <uiscale>1</uiscale>
   </profile>
 </settings>
