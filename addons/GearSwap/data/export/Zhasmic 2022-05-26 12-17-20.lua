@@ -1,0 +1,17 @@
+sets.exported={
+    main="Apocalypse",
+    sub="Utu Grip",
+    ammo="Knobkierrie",
+    head="Sakpata's Helm",
+    body="Sakpata's Plate",
+    hands="Sakpata's Gauntlets",
+    legs="Sakpata's Cuisses",
+    feet="Sakpata's Leggings",
+    neck={ name="Abyssal Beads +2", augments={'Path: A',}},
+    waist="Flume Belt +1",
+    left_ear="Infused Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Niqmaddu Ring",
+    right_ring="Moonlight Ring",
+    back="Nexus Cape",
+}

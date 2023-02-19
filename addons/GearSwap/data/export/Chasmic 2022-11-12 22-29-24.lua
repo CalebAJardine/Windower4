@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Machaera +2", augments={'TP Bonus +1000',}},
+    ammo="Amar Cluster",
+    head="Leth. Chappel +2",
+    body="Lethargy Sayon +2",
+    hands="Leth. Ganth. +2",
+    legs="Leth. Fuseau +3",
+    feet="Nyame Sollerets",
+    neck={ name="Bathy Choker +1", augments={'Path: A',}},
+    waist="Svelt. Gouriz +1",
+    left_ear="Eabani Earring",
+    right_ear="Infused Earring",
+    left_ring="Kishar Ring",
+    right_ring="Defending Ring",
+    back={ name="Sucellos's Cape", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','MND+10','Weapon skill damage +10%','Phys. dmg. taken-10%',}},
+}

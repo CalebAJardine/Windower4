@@ -1,0 +1,18 @@
+sets.exported={
+    main={ name="Rostam", augments={'Path: C',}},
+    sub="Naegling",
+    range={ name="Anarchy +2", augments={'Delay:+60','TP Bonus +1000',}},
+    ammo="Chrono Bullet",
+    head={ name="Herculean Helm", augments={'"Mag.Atk.Bns."+23','Weapon skill damage +3%','Mag. Acc.+15',}},
+    body={ name="Lanun Frac +3", augments={'Enhances "Loaded Deck" effect',}},
+    hands="Meg. Gloves +2",
+    legs={ name="Herculean Trousers", augments={'"Mag.Atk.Bns."+21','Weapon skill damage +3%','INT+8','Mag. Acc.+10',}},
+    feet={ name="Lanun Bottes +3", augments={'Enhances "Wild Card" effect',}},
+    neck={ name="Comm. Charm +2", augments={'Path: A',}},
+    waist="Eschan Stone",
+    left_ear="Friomisi Earring",
+    right_ear="Ishvara Earring",
+    left_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    right_ring="Ilabrat Ring",
+    back={ name="Camulus's Mantle", augments={'AGI+20','Mag. Acc+20 /Mag. Dmg.+20','AGI+10','Weapon skill damage +10%','Phys. dmg. taken-10%',}},
+}

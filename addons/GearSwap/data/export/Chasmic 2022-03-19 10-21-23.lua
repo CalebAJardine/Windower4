@@ -1,0 +1,17 @@
+sets.exported={
+    main="Kunimitsu",
+    sub="Gleti's Knife",
+    ammo="Ombre Tathlum +1",
+    head="Mpaca's Cap",
+    body="Malignance Tabard",
+    hands="Malignance Gloves",
+    legs="Malignance Tights",
+    feet="Malignance Boots",
+    neck="Fotia Gorget",
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Ishvara Earring",
+    right_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    left_ring="Karieyh Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Andartia's Mantle", augments={'STR+20','STR+10','Weapon skill damage +10%',}},
+}

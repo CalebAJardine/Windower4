@@ -1,0 +1,17 @@
+sets.exported={
+    main="Aeneas",
+    sub="Ajja Knife",
+    range={ name="Linos", augments={'Accuracy+15','"Store TP"+4','Quadruple Attack +3',}},
+    head="Aya. Zucchetto +2",
+    body="Ayanmo Corazza +2",
+    hands="Bunzi's Gloves",
+    legs="Aya. Cosciales +2",
+    feet="Aya. Gambieras +2",
+    neck="Sanctity Necklace",
+    waist="Sarissapho. Belt",
+    left_ear="Digni. Earring",
+    right_ear="Hermetic Earring",
+    left_ring="Ilabrat Ring",
+    right_ring="Apate Ring",
+    back={ name="Intarabus's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+5','"Dual Wield"+10',}},
+}

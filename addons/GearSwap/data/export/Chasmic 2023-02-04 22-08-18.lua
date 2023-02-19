@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Dojikiri Yasutsuna", augments={'Path: A',}},
+    sub="Utu Grip",
+    ammo="Staunch Tathlum",
+    head="Mpaca's Cap",
+    body="Mpaca's Doublet",
+    hands="Mpaca's Gloves",
+    legs="Mpaca's Hose",
+    feet="Mpaca's Boots",
+    neck={ name="Sam. Nodowa +2", augments={'Path: A',}},
+    waist="Ioskeha Belt",
+    left_ear="Telos Earring",
+    right_ear="Cessance Earring",
+    left_ring="Defending Ring",
+    right_ring="Niqmaddu Ring",
+    back={ name="Smertrios's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+10','"Dbl.Atk."+10','Phys. dmg. taken-10%',}},
+}

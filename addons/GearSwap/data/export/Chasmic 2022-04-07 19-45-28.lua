@@ -1,0 +1,17 @@
+sets.exported={
+    main="Ceremonial Dagger",
+    sub="Ceremonial Dagger",
+    ammo="Coiste Bodhar",
+    head="Malignance Chapeau",
+    body="Ayanmo Corazza +2",
+    hands="Aya. Manopolas +2",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Malignance Boots",
+    neck="Clotharius Torque",
+    waist="Orpheus's Sash",
+    left_ear="Sherida Earring",
+    right_ear="Cessance Earring",
+    left_ring="Hetairoi Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Sucellos's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+10','"Dual Wield"+10','Phys. dmg. taken-10%',}},
+}

@@ -1,0 +1,18 @@
+sets.exported={
+    main="Naegling",
+    sub="Gleti's Knife",
+    range="Annihilator",
+    ammo="Bullet",
+    head={ name="Herculean Helm", augments={'Attack+7','Weapon skill damage +3%','STR+14','Accuracy+11',}},
+    body={ name="Herculean Vest", augments={'Weapon skill damage +3%','DEX+10','Accuracy+8','Attack+13',}},
+    hands="Meg. Gloves +2",
+    legs="Malignance Tights",
+    feet={ name="Herculean Boots", augments={'Accuracy+16','Weapon skill damage +4%','Attack+12',}},
+    neck="Anu Torque",
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    right_ear="Ishvara Earring",
+    left_ring="Beithir Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back="Moonlight Cape",
+}

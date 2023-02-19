@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Masamune", augments={'Path: A',}},
+    sub="Utu Grip",
+    ammo="Ginsen",
+    head="Kasuga Kabuto +1",
+    body="Sacro Breastplate",
+    hands="Wakido Kote +3",
+    legs={ name="Sakonji Haidate +3", augments={'Enhances "Shikikoyo" effect',}},
+    feet="Flam. Gambieras +2",
+    neck={ name="Bathy Choker +1", augments={'Path: A',}},
+    waist="Ioskeha Belt",
+    left_ear="Genmei Earring",
+    right_ear="Cessance Earring",
+    left_ring="Flamma Ring",
+    right_ring="Niqmaddu Ring",
+    back={ name="Smertrios's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+7','"Dbl.Atk."+10','System: 1 ID: 640 Val: 4',}},
+}

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <autoload>
+    <addon>aecho</addon>
+    <addon>azureSets</addon>
+    <addon>capetrader</addon>
+    <addon>DistancePlus</addon>
+    <addon>DressUp</addon>
+    <addon>enternity</addon>
+    <addon>GearSwap</addon>
+    <addon>instaLS</addon>
+    <addon>itemizer</addon>
+    <addon>JobChange</addon>
+    <addon>Pouches</addon>
+    <addon>scoreboard</addon>
+    <addon>targetinfo</addon>
+    <addon>temps</addon>
+    <addon>TParty</addon>
+    <addon>update</addon>
+    <addon>Debuffed</addon>
+    <addon>lottery</addon>
+    <addon>thtracker</addon>
+    <addon>AutoRA</addon>
+    <addon>answeringmachine</addon>
+    <addon>findAll</addon>
+    <addon>Treasury</addon>
+    <addon>rolltracker</addon>
+    <addon>battlemod</addon>
+    <addon>checkparam</addon>
+    <addon>craft</addon>
+    <addon>autojoin</addon>
+    <addon>shortcuts</addon>
+    <addon>equipviewer</addon>
+    <addon>NyzulHelper</addon>
+    <addon>SpellBook</addon>
+    <addon>eval</addon>
+    <addon>Omen</addon>
+    <plugin>Config</plugin>
+    <plugin>DelayMeNot</plugin>
+    <plugin>Guildwork</plugin>
+    <plugin>InfoBar</plugin>
+    <plugin>Timers</plugin>
+    <plugin>WinControl</plugin>
+    <plugin>JaZero</plugin>
+    <plugin>FFXIDB</plugin>
+  </autoload>
+  <profile name="">
+    <consolekey>Insert</consolekey>
+    <windowmode>Window</windowmode>
+    <width>1280</width>
+    <height>800</height>
+    <uiscale>1</uiscale>
+  </profile>
+  <profile name="Widescreen">
+    <consolekey>Insert</consolekey>
+    <windowmode>Window</windowmode>
+    <width>1720</width>
+    <height>1440</height>
+    <mipmaplevel>6</mipmaplevel>
+    <uiscale>1.1</uiscale>
+  </profile>
+  <profile name="1920 window">
+    <consolekey>Insert</consolekey>
+    <windowmode>Window</windowmode>
+    <width>1920</width>
+    <height>1080</height>
+    <uiscale>1</uiscale>
+  </profile>
+  <profile name="Laptop">
+    <consolekey>Insert</consolekey>
+    <windowmode>Window</windowmode>
+    <width>1280</width>
+    <height>800</height>
+  </profile>
+</settings>

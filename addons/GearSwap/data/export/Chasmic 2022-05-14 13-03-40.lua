@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Lathi", augments={'INT+15','"Mag.Atk.Bns."+15','Mag. Acc.+15',}},
+    sub="Niobid Strap",
+    ammo="Sapience Orb",
+    head={ name="Merlinic Hood", augments={'Mag. Acc.+12','"Fast Cast"+5','"Mag.Atk.Bns."+15',}},
+    body={ name="Merlinic Jubbah", augments={'"Mag.Atk.Bns."+28','"Fast Cast"+7','Mag. Acc.+11',}},
+    hands={ name="Merlinic Dastanas", augments={'Mag. Acc.+5','"Fast Cast"+5','CHR+1','"Mag.Atk.Bns."+10',}},
+    legs={ name="Lengo Pants", augments={'INT+10','Mag. Acc.+15','"Mag.Atk.Bns."+15','"Refresh"+1',}},
+    feet={ name="Merlinic Crackows", augments={'"Mag.Atk.Bns."+17','"Fast Cast"+7','Mag. Acc.+2',}},
+    neck="Mizu. Kubikazari",
+    waist="Witful Belt",
+    left_ear="Loquac. Earring",
+    right_ear="Friomisi Earring",
+    left_ring="Prolix Ring",
+    right_ring="Kishar Ring",
+    back={ name="Taranus's Cape", augments={'"Fast Cast"+10',}},
+}

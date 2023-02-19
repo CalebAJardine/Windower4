@@ -1,0 +1,16 @@
+sets.exported={
+    main={ name="Emeici +1", augments={'Path: A',}},
+    ammo="Knobkierrie",
+    head="Malignance Chapeau",
+    body="Malignance Tabard",
+    hands="Malignance Gloves",
+    legs="Malignance Tights",
+    feet={ name="Herculean Boots", augments={'Attack+18','"Triple Atk."+4','DEX+7','Accuracy+7',}},
+    neck="Fotia Gorget",
+    waist="Moonbow Belt +1",
+    left_ear="Sherida Earring",
+    right_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    left_ring="Niqmaddu Ring",
+    right_ring="Epona's Ring",
+    back={ name="Segomo's Mantle", augments={'STR+20','Accuracy+20 Attack+20','"Dbl.Atk."+10',}},
+}

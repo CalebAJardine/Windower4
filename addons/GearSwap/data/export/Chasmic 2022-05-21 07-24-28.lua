@@ -1,0 +1,18 @@
+sets.exported={
+    main="Naegling",
+    sub="Gleti's Knife",
+    range="Annihilator",
+    ammo="Bullet",
+    head="Malignance Chapeau",
+    body="Malignance Tabard",
+    hands={ name="Tatena. Gote +1", augments={'Path: A',}},
+    legs={ name="Tatena. Haidate +1", augments={'Path: A',}},
+    feet={ name="Herculean Boots", augments={'Attack+18','"Triple Atk."+4','DEX+7','Accuracy+7',}},
+    neck="Anu Torque",
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Sherida Earring",
+    right_ear="Cessance Earring",
+    left_ring="Epona's Ring",
+    right_ring="Chirich Ring +1",
+    back="Moonlight Cape",
+}

@@ -1,0 +1,16 @@
+sets.exported={
+    main={ name="Emeici +1", augments={'Path: A',}},
+    ammo="Coiste Bodhar",
+    head="Ken. Jinpachi +1",
+    body="Ken. Samue +1",
+    hands={ name="Adhemar Wrist. +1", augments={'Accuracy+20','Attack+20','"Subtle Blow"+8',}},
+    legs="Ken. Hakama +1",
+    feet="Ken. Sune-Ate +1",
+    neck={ name="Mnk. Nodowa +2", augments={'Path: A',}},
+    waist="Moonbow Belt +1",
+    left_ear="Sherida Earring",
+    right_ear="Schere Earring",
+    left_ring="Niqmaddu Ring",
+    right_ring="Epona's Ring",
+    back={ name="Segomo's Mantle", augments={'STR+20','Accuracy+20 Attack+20','"Dbl.Atk."+10',}},
+}

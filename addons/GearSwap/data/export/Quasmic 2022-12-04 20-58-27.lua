@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Gada", augments={'Enh. Mag. eff. dur. +5','DMG:+16',}},
+    sub="Genmei Shield",
+    ammo="Staunch Tathlum",
+    head={ name="Kaykaus Mitra +1", augments={'MP+80','MND+12','Mag. Acc.+20',}},
+    body={ name="Vanya Robe", augments={'MP+50','"Cure" potency +7%','Enmity-6',}},
+    hands={ name="Vanya Cuffs", augments={'MP+50','"Cure" potency +7%','Enmity-6',}},
+    legs="Bunzi's Pants",
+    feet={ name="Kaykaus Boots +1", augments={'Mag. Acc.+20','"Cure" potency +6%','"Fast Cast"+4',}},
+    neck="Loricate Torque",
+    waist="Witful Belt",
+    left_ear="Genmei Earring",
+    right_ear={ name="Moonshade Earring", augments={'HP+25','Latent effect: "Refresh"+1',}},
+    left_ring="Ayanmo Ring",
+    right_ring="Warp Ring",
+    back={ name="Alaunus's Cape", augments={'MND+20','Eva.+20 /Mag. Eva.+20','"Fast Cast"+10','Phys. dmg. taken-10%',}},
+}

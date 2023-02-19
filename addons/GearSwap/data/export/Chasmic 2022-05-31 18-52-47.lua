@@ -1,0 +1,18 @@
+sets.exported={
+    main="Naegling",
+    sub="Gleti's Knife",
+    range={ name="Sparrowhawk +2", augments={'TP Bonus +1000',}},
+    ammo="Hauksbok Arrow",
+    head="Orion Beret +3",
+    body="Malignance Tabard",
+    hands="Meg. Gloves +2",
+    legs={ name="Arc. Braccae +3", augments={'Enhances "Eagle Eye Shot" effect',}},
+    feet={ name="Herculean Boots", augments={'Accuracy+16','Weapon skill damage +4%','Attack+12',}},
+    neck={ name="Scout's Gorget +2", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Ishvara Earring",
+    right_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    left_ring="Beithir Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back="Moonlight Cape",
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub="Sakpata's Sword",
+    ammo="Coiste Bodhar",
+    head={ name="Herculean Helm", augments={'Attack+7','Weapon skill damage +3%','STR+14','Accuracy+11',}},
+    body="Assim. Jubbah +3",
+    hands="Jhakri Cuffs +2",
+    legs={ name="Luhlaza Shalwar +3", augments={'Enhances "Assimilation" effect',}},
+    feet={ name="Herculean Boots", augments={'Accuracy+16','Weapon skill damage +4%','Attack+12',}},
+    neck={ name="Mirage Stole +2", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Ishvara Earring",
+    right_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    left_ring="Beithir Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Rosmerta's Cape", augments={'STR+20','Accuracy+20 Attack+20','STR+10','Weapon skill damage +10%',}},
+}

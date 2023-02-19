@@ -1,0 +1,17 @@
+sets.exported={
+    main="Sequence",
+    sub="Blurred Shield +1",
+    ammo="Sapience Orb",
+    head={ name="Souv. Schaller +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    body={ name="Souv. Cuirass +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    hands={ name="Souv. Handsch. +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    legs={ name="Founder's Hose", augments={'MND+6','Mag. Acc.+10','Attack+7','Breath dmg. taken -2%',}},
+    feet={ name="Odyssean Greaves", augments={'Mag. Acc.+22','"Cure" potency +4%','MND+1','"Mag.Atk.Bns."+15',}},
+    neck="Moonlight Necklace",
+    waist="Audumbla Sash",
+    left_ear="Nourish. Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Moonlight Ring",
+    right_ring="Gelatinous Ring",
+    back="Moonlight Cape",
+}

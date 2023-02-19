@@ -1,0 +1,26 @@
+<settings>
+    <global>
+        <X>0</X>
+        <Y>0</Y>
+        <Opacity>75</Opacity>
+        <ShowPC>true</ShowPC>
+        <ShowNPC>true</ShowNPC>
+        <ShowMob>true</ShowMob>
+        <ShowMarker>true</ShowMarker>
+        <ShowTargetLine>true</ShowTargetLine>
+        <Ranges />
+        <Scale>1</Scale>
+    </global>
+    <Chasmic>
+        <X>-21</X>
+        <Y>808</Y>
+    </Chasmic>
+    <Tyniasen>
+        <X>835</X>
+        <Y>456</Y>
+    </Tyniasen>
+    <Quasmic>
+        <X>487</X>
+        <Y>405</Y>
+    </Quasmic>
+</settings>

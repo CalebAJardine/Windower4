@@ -1,0 +1,18 @@
+sets.exported={
+    main={ name="Rostam", augments={'Path: C',}},
+    sub="Nusku Shield",
+    range={ name="Compensator", augments={'DMG:+15','AGI+15','Rng.Acc.+15',}},
+    ammo="Chrono Bullet",
+    head="Ikenga's Hat",
+    body="Malignance Tabard",
+    hands="Malignance Gloves",
+    legs="Ikenga's Trousers",
+    feet="Malignance Boots",
+    neck="Iskur Gorget",
+    waist="Yemaya Belt",
+    left_ear="Cessance Earring",
+    right_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    left_ring="Dingir Ring",
+    right_ring="Ilabrat Ring",
+    back={ name="Camulus's Mantle", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','Rng.Acc.+10','"Store TP"+10',}},
+}

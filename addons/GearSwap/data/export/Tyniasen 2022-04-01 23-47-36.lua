@@ -1,0 +1,17 @@
+sets.exported={
+    main="Kaja Sword",
+    sub="Gleti's Knife",
+    range={ name="Linos", augments={'Accuracy+15','"Store TP"+4','Quadruple Attack +3',}},
+    head="Aya. Zucchetto +2",
+    body="Ayanmo Corazza +2",
+    hands="Bunzi's Gloves",
+    legs={ name="Telchine Braconi", augments={'Accuracy+16','"Store TP"+6','DEX+8',}},
+    feet="Aya. Gambieras +2",
+    neck={ name="Bard's Charm +2", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Digni. Earring",
+    right_ear="Hermetic Earring",
+    left_ring="Moonbeam Ring",
+    right_ring="Moonbeam Ring",
+    back={ name="Intarabus's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+5','"Dual Wield"+10',}},
+}

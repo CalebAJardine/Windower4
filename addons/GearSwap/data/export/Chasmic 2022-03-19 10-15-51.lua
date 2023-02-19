@@ -1,0 +1,17 @@
+sets.exported={
+    main="Kunimitsu",
+    sub="Gleti's Knife",
+    ammo="Ombre Tathlum +1",
+    head="Nyame Helm",
+    body="Nyame Mail",
+    hands="Nyame Gauntlets",
+    legs="Nyame Flanchard",
+    feet="Nyame Sollerets",
+    neck="Fotia Gorget",
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Friomisi Earring",
+    right_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    left_ring="Karieyh Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Andartia's Mantle", augments={'STR+20','STR+10','Weapon skill damage +10%',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Sakpata's Sword",
+    sub="Aegis",
+    ammo="Staunch Tathlum",
+    head="Sakpata's Helm",
+    body="Sakpata's Plate",
+    hands="Sakpata's Gauntlets",
+    legs="Sakpata's Cuisses",
+    feet="Sakpata's Leggings",
+    neck={ name="Unmoving Collar +1", augments={'Path: A',}},
+    waist="Olympus Sash",
+    left_ear="Odnowa Earring +1",
+    right_ear="Eabani Earring",
+    left_ring="Moonlight Ring",
+    right_ring="Gelatinous Ring",
+    back={ name="Rudianos's Mantle", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Enmity+10','Mag. Evasion+15',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Apocalypse",
+    sub="Utu Grip",
+    ammo="Knobkierrie",
+    head="Ratri Sallet +1",
+    body="Ignominy Cuirass +3",
+    hands="Rat. Gadlings +1",
+    legs={ name="Fall. Flanchard +3", augments={'Enhances "Muted Soul" effect',}},
+    feet="Sakpata's Leggings",
+    neck={ name="Abyssal Beads +2", augments={'Path: A',}},
+    waist="Grunfeld Rope",
+    left_ear="Infused Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Niqmaddu Ring",
+    right_ring="Moonlight Ring",
+    back="Nexus Cape",
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Sakpata's Sword",
+    sub={ name="Priwen", augments={'HP+50','Mag. Evasion+50','Damage Taken -3%',}},
+    ammo="Sapience Orb",
+    head={ name="Carmine Mask", augments={'Accuracy+15','Mag. Acc.+10','"Fast Cast"+3',}},
+    body="Shabti Cuirass",
+    hands={ name="Souv. Handsch. +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    legs={ name="Souv. Diechlings +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    feet={ name="Eschite Greaves", augments={'Mag. Evasion+15','Spell interruption rate down +15%','Enmity+7',}},
+    neck="Moonlight Necklace",
+    waist="Creed Baudrier",
+    left_ear="Thureous Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Moonlight Ring",
+    right_ring="Eihwaz Ring",
+    back={ name="Weard Mantle", augments={'VIT+2','DEX+2','Enmity+2','Phalanx +3',}},
+}

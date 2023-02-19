@@ -1,0 +1,15 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <autodecline>false</autodecline>
+        <blacklist />
+        <mode>whitelist</mode>
+        <whitelist />
+    </global>
+    <quasmic>
+        <whitelist>Spaitin,Chasmic</whitelist>
+    </quasmic>
+    <tyniasen>
+        <whitelist>Spaitin</whitelist>
+    </tyniasen>
+</settings>

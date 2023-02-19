@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Machaera +2", augments={'TP Bonus +1000',}},
+    ammo="Ombre Tathlum +1",
+    head={ name="Viti. Chapeau +3", augments={'Enfeebling Magic duration','Magic Accuracy',}},
+    body="Atrophy Tabard +3",
+    hands="Leth. Ganth. +2",
+    legs="Leth. Fuseau +3",
+    feet={ name="Vitiation Boots +3", augments={'Immunobreak Chance',}},
+    neck="Mizu. Kubikazari",
+    waist="Luminary Sash",
+    left_ear="Hermetic Earring",
+    right_ear="Malignance Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back={ name="Sucellos's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+10','"Dual Wield"+10','Phys. dmg. taken-10%',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Kali", augments={'Mag. Acc.+15','String instrument skill +10','Wind instrument skill +10',}},
+    sub="Ammurapi Shield",
+    range="Daurdabla",
+    head="Fili Calot",
+    body="Inyanga Jubbah +2",
+    hands={ name="Gende. Gages +1", augments={'Phys. dmg. taken -3%','Song spellcasting time -4%',}},
+    legs="Aya. Cosciales +2",
+    feet={ name="Telchine Pigaches", augments={'"Fast Cast"+5',}},
+    neck="Voltsurge Torque",
+    waist="Embla Sash",
+    left_ear="Loquac. Earring",
+    right_ear="Mendi. Earring",
+    left_ring="Kishar Ring",
+    right_ring="Prolix Ring",
+    back={ name="Intarabus's Cape", augments={'Mag. Acc+20 /Mag. Dmg.+20','"Fast Cast"+10','Phys. dmg. taken-10%',}},
+}

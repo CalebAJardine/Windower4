@@ -1,0 +1,16 @@
+sets.exported={
+    main="Sequence",
+    sub={ name="Iris", augments={'DMG:+15','STR+15','Accuracy+15',}},
+    ammo="Mavi Tathlum",
+    body={ name="Cohort Cloak +1", augments={'Path: A',}},
+    hands={ name="Amalric Gages +1", augments={'INT+12','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    legs="Nyame Flanchard",
+    feet={ name="Amalric Nails +1", augments={'Mag. Acc.+20','"Mag.Atk.Bns."+20','"Conserve MP"+7',}},
+    neck='Sanctity Necklace',
+    waist="Orpheus's Sash",
+    left_ear="Hecate's Earring",
+    right_ear="Friomisi Earring",
+    left_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    right_ring="Shiva Ring +1",
+    back={ name="Rosmerta's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+10','"Mag.Atk.Bns."+10','Spell interruption rate down-10%',}},
+}
